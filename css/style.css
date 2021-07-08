@@ -1,0 +1,79 @@
+        body{
+            font-family: 'Pacifico', cursive;
+            margin:0;
+        }
+        main{
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            position:relative;
+        }
+        #reinado{
+            padding:0px 13px 2px;
+            border:1px solid black;
+            border-radius:5px;
+            position:absolute;
+            top: 338px;
+            right: -16px;
+            font-size:1.5em;
+            background-color:rgba(255,255,255,0.75);
+            line-height:40px;
+            transform:rotate(-5deg);
+        }
+        #nombre{
+            padding:0px 13px 3px;
+            border:1px solid black;
+            border-radius:5px;
+            position:absolute;
+            top:301px;
+            right:-89px;
+            font-size:1.9em;
+            background-color:rgba(255,255,255,0.8);
+            line-height:42px;
+            transform:rotate(5deg);
+        }
+        img{
+            max-width:100%;
+            vertical-align:top;
+        }
+        #personalidad{
+            position:relative;
+            width:442px;
+            background-color:white;
+            border-radius:50%;
+        }
+        .boton{
+            width:120px;
+            border-radius:50%;
+            border:1px solid black;
+            background-color:white;
+            box-shadow:0 0 10px rgb(26,36,80) inset;
+            cursor:pointer;
+            margin-left:-25px;
+            transform:rotate(180deg);
+        }
+        #invitados{
+            text-align:center;
+        }
+        #invitados img{
+            width:105px;
+            margin:14px 2px;
+        }
+        #barra_inferior{
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            margin-right:100px;
+            margin-top:20px;
+        }
+        #cantidad{
+            border:1px solid black;
+            border-radius:50%;
+            width:113px;
+            height:113px;
+            margin-left:20px;
+            text-align:center;
+            line-height:105px;
+            font-size:3.5em;
+            color:crimson;
+        }
