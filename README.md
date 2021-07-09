@@ -49,7 +49,7 @@ Extra per millorar nota:
 5. En fer clic al <BUTTON> :
 (afegir les següents funcionalitats)
 3d. La imatge <img> del personatge (anterior) s’afegeix al final del contingut del <DIV>
-anomenat “invitados” amb una estructura semblant a: "<img src="img/ataulfo.png">" ,
+anomenat “invitados” amb una estructura semblant a: (<img src="img/ataulfo.png">) ,
 però utilitzant el valor correcte de l’array “personas” .
 3e. S’afegeix aquest valor al final del nou array “reis_afegits” .
 3f. Es consulta la quantitat de valors d’aquest array “ reis_afegits” i s’actualitza al <DIV>
