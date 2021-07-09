@@ -1,5 +1,6 @@
 # repte5A_DANIEL_MIGALES
 About Exercici del curs Introducció a la programació mobile (FS23-21) del SOC. PLA_5 Arrays.
+
 Repte 5A :
 El repte consisteix en un visualitzador dels 7 dels reis gots més èpics i llegendaris de tots els
 temps, mostrant un a un la seva imatge, nom i regnat (valors guardats a l’ arrays).
